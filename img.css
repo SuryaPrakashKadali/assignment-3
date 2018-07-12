@@ -1,0 +1,32 @@
+*{
+    margin:0px;
+}
+.lables{
+    float:left;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    padding:0px 25px 0px 0px;
+
+}
+.images,.work,.pic{
+    margin: 0px 0px 0px 0px;
+}
+.head{
+    text-align: right;
+    padding:0px 0px 20px 0px;
+    margin:0px;
+}
+
+.pic{
+    float:left;
+}
+hr{
+    padding:10px 0px 20px 0px;
+}
+body{
+    width: 50%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.divv{border-bottom: 1px solid black;}
+.images{width: 100%;}
